@@ -32,7 +32,7 @@ Team Táo Bạo chúng tôi gồm có Táo Tàu, Táo Ta và Táo Newton:
 
 - Nguyễn Xuân Kiên
 - Nguyễn Diệp Anh (Dập bà bà)
-- Hoàng Thị Hào
+- Hoàng Thị Hào (tester)
 - Bùi Mạnh Tiệp
 - Đặng Quang Anh
 - Trần Xuân Bách
